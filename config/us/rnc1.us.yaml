@@ -333,7 +333,7 @@ segments:
           - [0x1c3f0, c, sdk/library/new_iob]
           - [0x1c478, c, sdk/library/get_iob]
           - [0x1c4e4, textbin, text_gap_0011b4f8_post_sdk_worker]
-          - [0x1c4e8, c, assembly/sdk/library/_sceFs_Rcv_Intr]
+          - [0x1c4e8, c, sdk/library/_sceFs_Rcv_Intr]
           - [0x1c86c, textbin, text_gap_0011b568_post_sdk_worker]
           - [0x1c870, c, sdk/library/scefsseminit]
           - [0x1c8bc, textbin, text_gap_0011b8f0_post_sdk_worker]
