@@ -1310,7 +1310,7 @@ segments:
           - [0x105710, c, world/animation/update_world_object_animation]
           - [0x105964, textbin, text_gap_002049e4_before_fun_002049f0]
           - [0x105970, c, world/parse_space_scene_chunk]
-          - [0x1059c0, c, assembly/textbin/world/data/select_world_object_resource_tables]
+          - [0x1059c0, c, textbin/world/data/select_world_object_resource_tables]
           - [0x105c6c, textbin, text_gap_00204cec_before_fun_00204cf0]
           - [0x105c70, c, rendering/fun_00204cf0]
           - [0x105db0, c, rendering/fun_00204e30]
